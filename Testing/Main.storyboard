@@ -344,6 +344,9 @@
                                         <variation key="heightClass=compact-widthClass=compact">
                                             <fontDescription key="fontDescription" type="system" weight="light" pointSize="15"/>
                                         </variation>
+                                        <connections>
+                                            <action selector="onExyButtonClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="AO3-DP-33W"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gt7-cP-IU4">
                                         <rect key="frame" x="241" y="79" width="79" height="79"/>

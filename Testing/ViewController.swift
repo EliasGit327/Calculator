@@ -322,6 +322,11 @@ class ViewController: UIViewController {
     prepareForOperation(labelOfFunc: label, opTypeIn: "powerXY")
   }
   
+  @IBAction func onExyButtonClick(_ sender: Any) {
+    eInPowerX(labelOfFunc: label)
+  }
+  
+  
   func landsacpeUI() -> Void {
     
     if( land != true ) {

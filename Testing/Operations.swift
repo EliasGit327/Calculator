@@ -228,6 +228,16 @@ public func getE(labelOfFunc: UILabel) {
   addRow(nameIn: userData.name, btnPressedIn: 1, firstNumIn: "none", secondNumIn: "none", resultIn: "2.71828")
 }
 
+public func eInPowerX(labelOfFunc: UILabel) {
+  let x = getDoubleValue(text: labelOfFunc.text!)
+  let result = pow(2.71828, x)
+  userData.buttonPressed+=1
+  addRow(nameIn: userData.name, btnPressedIn: userData.buttonPressed, firstNumIn: labelOfFunc.text!, secondNumIn: "none", resultIn: getStringValue(value: result))
+  userData.buttonPressed = 0
+  labelOfFunc.text = getStringValue(value: result)
+  firstNum = true
+}
+
 public func getRadnomNum(labelOfFunc: UILabel) {
   
   labelOfFunc.text = getStringValue(value: (Double(arc4random()) / Double(UINT32_MAX)))
