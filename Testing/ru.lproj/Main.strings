@@ -1,0 +1,149 @@
+/* Class = "UIButton"; normalTitle = "     0"; ObjectID = "1MS-V1-9yR"; */
+"1MS-V1-9yR.normalTitle" = "     0";
+
+/* Class = "UIButton"; normalTitle = "m-"; ObjectID = "1Ve-Cz-tDm"; */
+"1Ve-Cz-tDm.normalTitle" = "m-";
+
+/* Class = "UIButton"; normalTitle = "sqrt(x)_y"; ObjectID = "2ev-cb-Liu"; */
+"2ev-cb-Liu.normalTitle" = "sqrt(x)_y";
+
+/* Class = "UIButton"; normalTitle = "÷"; ObjectID = "3L7-WD-wL7"; */
+"3L7-WD-wL7.normalTitle" = "÷";
+
+/* Class = "UIButton"; normalTitle = "mc"; ObjectID = "4eI-sA-1ui"; */
+"4eI-sA-1ui.normalTitle" = "mc";
+
+/* Class = "UIButton"; normalTitle = "×"; ObjectID = "5v9-mN-KwA"; */
+"5v9-mN-KwA.normalTitle" = "×";
+
+/* Class = "UIButton"; normalTitle = "sqrt(x)_2"; ObjectID = "6MT-Gi-Ii4"; */
+"6MT-Gi-Ii4.normalTitle" = "sqrt(x)_2";
+
+/* Class = "UIButton"; normalTitle = "e^x"; ObjectID = "6xU-C4-M6p"; */
+"6xU-C4-M6p.normalTitle" = "e^x";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "7Kk-iO-A6Y"; */
+"7Kk-iO-A6Y.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "8DK-We-io4"; */
+"8DK-We-io4.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "="; ObjectID = "8ba-Ie-ATl"; */
+"8ba-Ie-ATl.normalTitle" = "=";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "9Lj-NF-jgn"; */
+"9Lj-NF-jgn.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "tan"; ObjectID = "Cbk-OD-Y3N"; */
+"Cbk-OD-Y3N.normalTitle" = "tan";
+
+/* Class = "UIButton"; normalTitle = "tanh"; ObjectID = "Cl5-Yo-kD8"; */
+"Cl5-Yo-kD8.normalTitle" = "tanh";
+
+/* Class = "UIButton"; normalTitle = "m+"; ObjectID = "GrN-bd-hZP"; */
+"GrN-bd-hZP.normalTitle" = "m+";
+
+/* Class = "UIButton"; normalTitle = "x^y"; ObjectID = "Gt7-cP-IU4"; */
+"Gt7-cP-IU4.normalTitle" = "x^y";
+
+/* Class = "UIButton"; normalTitle = "cos"; ObjectID = "H46-D3-3fU"; */
+"H46-D3-3fU.normalTitle" = "cos";
+
+/* Class = "UIButton"; normalTitle = "C"; ObjectID = "HRl-QD-CJf"; */
+"HRl-QD-CJf.normalTitle" = "C";
+
+/* Class = "UIButton"; normalTitle = "some"; ObjectID = "Iz0-XH-hRG"; */
+"Iz0-XH-hRG.normalTitle" = "some";
+
+/* Class = "UIButton"; normalTitle = "sin"; ObjectID = "JTq-UZ-Bch"; */
+"JTq-UZ-Bch.normalTitle" = "sin";
+
+/* Class = "UIButton"; normalTitle = "Pi"; ObjectID = "Jqq-fs-gIF"; */
+"Jqq-fs-gIF.normalTitle" = "Pi";
+
+/* Class = "UIButton"; normalTitle = "x!"; ObjectID = "KBV-Lw-gCA"; */
+"KBV-Lw-gCA.normalTitle" = "x!";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "KZv-Ww-rJf"; */
+"KZv-Ww-rJf.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "->"; ObjectID = "Mqw-UK-ca0"; */
+"Mqw-UK-ca0.normalTitle" = "->";
+
+/* Class = "UIButton"; normalTitle = "sinh"; ObjectID = "O7S-Dk-sMX"; */
+"O7S-Dk-sMX.normalTitle" = "sinh";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "QN2-GQ-ajm"; */
+"QN2-GQ-ajm.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "."; ObjectID = "R26-VD-b3q"; */
+"R26-VD-b3q.normalTitle" = ".";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "RbM-5G-C8z"; */
+"RbM-5G-C8z.normalTitle" = "7";
+
+/* Class = "UIButton"; normalTitle = "Rad"; ObjectID = "RgX-vm-lHr"; */
+"RgX-vm-lHr.normalTitle" = "Rad";
+
+/* Class = "UIButton"; normalTitle = "cosh"; ObjectID = "TfD-ZH-7bS"; */
+"TfD-ZH-7bS.normalTitle" = "cosh";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "TvU-a8-fVw"; */
+"TvU-a8-fVw.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "<-"; ObjectID = "VAX-4t-JWa"; */
+"VAX-4t-JWa.normalTitle" = "<-";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "W2L-uv-JbF"; */
+"W2L-uv-JbF.normalTitle" = "6";
+
+/* Class = "UIButton"; normalTitle = "10^x"; ObjectID = "aFv-zV-wIw"; */
+"aFv-zV-wIw.normalTitle" = "10^x";
+
+/* Class = "UIButton"; normalTitle = "e"; ObjectID = "aM8-q8-rBJ"; */
+"aM8-q8-rBJ.normalTitle" = "e";
+
+/* Class = "UIButton"; normalTitle = "mr"; ObjectID = "ccp-fc-dVb"; */
+"ccp-fc-dVb.normalTitle" = "mr";
+
+/* Class = "UIButton"; normalTitle = "EE"; ObjectID = "h5f-lf-3c8"; */
+"h5f-lf-3c8.normalTitle" = "EE";
+
+/* Class = "UIButton"; normalTitle = "+/-"; ObjectID = "hAv-q6-aiy"; */
+"hAv-q6-aiy.normalTitle" = "+/-";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "hFl-vb-wzN"; */
+"hFl-vb-wzN.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "i9E-9T-lEr"; */
+"i9E-9T-lEr.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "x^3"; ObjectID = "isX-pY-ami"; */
+"isX-pY-ami.normalTitle" = "x^3";
+
+/* Class = "UIButton"; normalTitle = "ln"; ObjectID = "kLt-O4-cDI"; */
+"kLt-O4-cDI.normalTitle" = "ln";
+
+/* Class = "UIButton"; normalTitle = "%"; ObjectID = "nGI-Wk-mEH"; */
+"nGI-Wk-mEH.normalTitle" = "%";
+
+/* Class = "UIButton"; normalTitle = "Rand"; ObjectID = "ngg-2y-FU9"; */
+"ngg-2y-FU9.normalTitle" = "Rand";
+
+/* Class = "UIButton"; normalTitle = "x^2"; ObjectID = "ntp-z8-8Ht"; */
+"ntp-z8-8Ht.normalTitle" = "x^2";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "oSG-FA-kT6"; */
+"oSG-FA-kT6.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "pUw-we-Ded"; */
+"pUw-we-Ded.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "1/x"; ObjectID = "tYS-8T-pql"; */
+"tYS-8T-pql.normalTitle" = "1/x";
+
+/* Class = "UIButton"; normalTitle = "sqrt(x)_3"; ObjectID = "xCD-KQ-amQ"; */
+"xCD-KQ-amQ.normalTitle" = "sqrt(x)_3";
+
+/* Class = "UIButton"; normalTitle = "log(10)"; ObjectID = "zRL-jw-W0K"; */
+"zRL-jw-W0K.normalTitle" = "log(10)";

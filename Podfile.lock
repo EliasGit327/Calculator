@@ -1,0 +1,26 @@
+PODS:
+  - CameraManager (4.4.0)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - CameraManager (~> 4.4)
+  - SQLite.swift (~> 0.11.5)
+  - Toast-Swift (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CameraManager
+    - SQLite.swift
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  CameraManager: 583710502c42178d12ef046d9d4f7893feff8354
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: 10772f98c45a631984566666bc9e81dc28e7a38c
+
+COCOAPODS: 1.6.1

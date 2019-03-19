@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Testing
+
+  Created by Elias on 3/15/19.
+  Copyright © 2019 Elias Smith. All rights reserved.
+*/
+
+"divide by 0 message" = "You can't divide by 0";
+"enter message" = "Welcome screen:";
+"username tip" = "Username";
+"data title" = "Data:";
+"close" = "Close";
+"name" = "Name";
+"buttons pressed" = "Button pressed";
+"first number" = "First number";
+"second number" = "Second number";
+"result" = "Result";
+"not int" = "Should be integer";
+"welcome message" = "To expand functionality turn the screen\nFor deleting last part you can press 'C' button or swipe on the text to the right\n\nFor full clearing you can hold 'C' button or shake phone\n\nFor opening stats you need to hold on the number";
