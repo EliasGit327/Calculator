@@ -29,7 +29,8 @@ public final class userData {
   public static var name = "Unknown"
   public static var buttonPressed: Int = 0
   public static var dataBasePub: Connection!
-
+  
+  public static var memory = 0.00
 }
 
 class ViewController: UIViewController {
@@ -326,6 +327,26 @@ class ViewController: UIViewController {
     eInPowerX(labelOfFunc: label)
   }
   
+  @IBAction func onDelDotButtonClick(_ sender: Any) {
+    dltAfterDot(labelOfFunc: label)
+  }
+  
+  @IBAction func onMrButtonClick(_ sender: Any) {
+    mPresent(labelOfFunc: label)
+  }
+  
+  @IBAction func onMminusButtonClick(_ sender: Any) {
+    mMinus(labelOfFunc: label)
+  }
+  
+  @IBAction func onMplusButtonClick(_ sender: Any) {
+    mAdd(labelOfFunc: label)
+  }
+  
+  @IBAction func onMclearButtonClick(_ sender: Any) {
+    mClear(labelOfFunc: label)
+  }
+  
   
   func landsacpeUI() -> Void {
     
@@ -431,7 +452,7 @@ class ViewController: UIViewController {
   
   func checkIfTablesExist() -> Bool {
     do {
-      try dataBase.scalar(dataTable.exists)
+      _ = try dataBase.scalar(dataTable.exists)
       
       print("Exists")
       return true

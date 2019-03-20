@@ -129,7 +129,7 @@ public func doOperation( labelOfFunc: UILabel! ) {
     } else {
       labelOfFunc.text = "0"
       
-      var style = ToastStyle()
+      let style = ToastStyle()
       myView?.makeToast(NSLocalizedString("divide by 0 message", comment: ""), style: style)
     }
     
@@ -319,7 +319,7 @@ public func secondPower(labelOfFunc: UILabel) {
   
   let num = getDoubleValue(text: labelOfFunc.text!)
   
-  var result = num * num
+  let result = num * num
   
   addRow(nameIn: userData.name, btnPressedIn: userData.buttonPressed, firstNumIn: labelOfFunc.text!, secondNumIn: "none", resultIn: getStringValue(value: result))
   labelOfFunc.text = getStringValue(value: result)
@@ -432,4 +432,35 @@ public func sqrt3(labelOfFunc: UILabel) {
 
 public func sqrtXY(labelOfFunc: UILabel) {
   prepareForOperation(labelOfFunc: labelOfFunc, opTypeIn: "sqrtXY")
+}
+
+public func dltAfterDot(labelOfFunc: UILabel) {
+  
+  let result = String( format: "%.0f", getDoubleValue(text: labelOfFunc.text!))
+  
+  addRow(nameIn: userData.name, btnPressedIn: userData.buttonPressed, firstNumIn: labelOfFunc.text!, secondNumIn: "none", resultIn: result)
+  
+  userData.buttonPressed = 0
+  labelOfFunc.text = result
+}
+
+
+public func mClear(labelOfFunc: UILabel) {
+  userData.memory = 0
+}
+
+public func mAdd(labelOfFunc: UILabel) {
+  userData.memory += getDoubleValue(text: labelOfFunc.text!)
+  firstNum = true
+  labelOfFunc.text = "0"
+}
+
+public func mMinus(labelOfFunc: UILabel) {
+  userData.memory -= getDoubleValue(text: labelOfFunc.text!)
+  firstNum = true
+  labelOfFunc.text = "0"
+}
+
+public func mPresent(labelOfFunc: UILabel) {
+  labelOfFunc.text = getStringValue(value: userData.memory)
 }
